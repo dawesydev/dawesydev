@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on building some exciting projects in React & JavaScript
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning TypeScript
 - 💬 Ask me about anything React related
