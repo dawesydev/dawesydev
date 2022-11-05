@@ -1,4 +1,3 @@
-# Hey 👋 I'm Daniel Dawes
+### Hey 👋 I'm Daniel Dawes
 ---
-
 A Frontend Developer
